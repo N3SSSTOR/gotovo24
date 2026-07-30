@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /oferta.html
+
+Sitemap: https://gotovo24.ru/sitemap.xml
